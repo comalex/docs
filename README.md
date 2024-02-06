@@ -1,3 +1,7 @@
+p2o ./path/to/PostmantoCollection.json -f ./path/to/result.yml -o ./path/to/options.json
+
+
+
 # Mintlify Starter Kit 
 
 Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
