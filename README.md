@@ -1,5 +1,5 @@
-p2o ./path/to/PostmantoCollection.json -f ./path/to/result.yml -o ./path/to/options.json
-
+npx @mintlify/scraping@latest openapi-file api-reference/openapi.yml -o api-reference/endpoint
+npx postman-to-openapi ./SirenA1I-v.postman_collection.json -f res.json -o api-reference
 
 
 # Mintlify Starter Kit 
